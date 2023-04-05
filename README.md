@@ -31,4 +31,4 @@
 - fork the repository and clone locally
 - cd into the project and run `npm install` to install dependencies
 - npm install gh-pages --save-dev
-- once installation is complete, run `npm run start` or `npm run build`to get your local copy running in the browser.
+- once installation is complete, run `npm run start` or `npm run deploy`to get your local copy running in the browser.
