@@ -1,11 +1,5 @@
 # React Portfolio, multiple pages with dark mode
 
-## a portfolio for developers
-
-![screenshot](https://user-images.githubusercontent.com/18350557/176953627-cd79fe83-0b84-4082-b79e-cc88da28f2e1.png)
-
-[View Live Template](https://reactportfoliotemplate.paytonpierce.dev/)
-
 ## features
 
 🌑 Dark Mode Toggler
@@ -36,4 +30,5 @@
 
 - fork the repository and clone locally
 - cd into the project and run `npm install` to install dependencies
-- once installation is complete, run `npm run start` to get your local copy running in the browser.
+- npm install gh-pages --save-dev
+- once installation is complete, run `npm run start` or `npm run deploy`to get your local copy running in the browser.
