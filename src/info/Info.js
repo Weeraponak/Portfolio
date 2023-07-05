@@ -24,8 +24,8 @@ of what each of the values mean.
 export const info = {
     firstName: "Weerapon",
     lastName: "Akkho",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    initials: "pm", // the example uses first and last, but feel free to use three or more if you like.
+    position: "a front-end developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -39,8 +39,8 @@ export const info = {
             text: 'based in the TH'
         },
         {
-            emoji: "💼",
-            text: "Systems Engineer at MyHouse"
+            emoji: "💻",
+            text: "software developer at MyHouse"
         },
         {
             emoji: "📧",
@@ -58,18 +58,18 @@ export const info = {
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
+        // {
+        //     link: "https://github.com",
+        //     icon: "fa fa-github",
+        //     label: 'github'
+        // },
+        // {
+        //     link: "https://linkedin.com",
+        //     icon: "fa fa-linkedin",
+        //     label: 'linkedin'
+        // },
         {
-            link: "https://github.com",
-            icon: "fa fa-github",
-            label: 'github'
-        },
-        {
-            link: "https://linkedin.com",
-            icon: "fa fa-linkedin",
-            label: 'linkedin'
-        },
-        {
-            link: "https://twitter.com",
+            link: "https://twitter.com/weerapona370",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -77,11 +77,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Palm. I'm a systems engineer for MyHouse. I studied CompSci at UBU, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Palm, a front-end developer from MyHouse. I studied CompSci at UBU, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['Javascript', 'React', 'Git', 'Github', 'Bootstrap', 'HTML5', 'CSS3', 'Vite', 'npm', 'JSON'],
+            exposedTo: ['Nodejs', 'Python', 'Adobe Photoshop', 'Firebase', 'Vue' , 'Docker']
         }
     ,
     hobbies: [
